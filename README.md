@@ -1,7 +1,5 @@
 # Alejandro Cantero
 
----
-
 > *Senior Software Engineer & AI Developer · building products end to end*
 
 — **CURRENTLY**
